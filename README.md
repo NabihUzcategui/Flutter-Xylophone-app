@@ -1,5 +1,8 @@
 # flutter_xylophone_app
 
+![Xylophone](https://user-images.githubusercontent.com/99839506/232238407-4fdec94f-149d-40a4-8d28-3d2f7f8d091b.jpeg)
+
+
 A new Flutter project.
 
 ## Getting Started
